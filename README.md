@@ -20,11 +20,11 @@ Este repositorio contiene un ejemplo practico para aprender a crear y reutilizar
 ## Requisitos Previos
 
 * [.NET SDK](https://dotnet.microsoft.com/download) (.NET 8.0 o superior recomendado).
-* IDE o editor de c贸digo: Visual Studio, VS Code o JetBrains Rider.
+* IDE o editor de codigo: Visual Studio, VS Code o JetBrains Rider.
 
 ---
 
-## 馃殌 Como Ejecutar el Proyecto
+## Como Ejecutar el Proyecto
 
 1. Clonar el repositorio:
    ```bash
@@ -61,4 +61,4 @@ Para reutilizar el logotipo en cualquier otra pagina o componente `.razor`:
 
 ## Licencia
 
-Este proyecto est谩 disponible bajo la licencia **MIT**.
+Este proyecto esta disponible bajo la licencia **MIT**.
