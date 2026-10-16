@@ -4,6 +4,12 @@ Este repositorio contiene un ejemplo practico para aprender a crear y reutilizar
 
 ---
 
+## Ver explicacion en YouTube
+
+[![Ver en YouTube](https://img.shields.io/badge/YouTube-Video%20Tutorial-red?logo=youtube&logoColor=white)](https://youtu.be/jnN3HXBMgnQ)
+
+---
+
 ## Que incluye este proyecto?
 
 1. **`LogoComponent.razor`**:
@@ -62,5 +68,3 @@ Para reutilizar el logotipo en cualquier otra pagina o componente `.razor`:
 ## Licencia
 
 Este proyecto esta disponible bajo la licencia **MIT**.
-
-[![Ver en YouTube](https://img.shields.io/badge/YouTube-Video%20Tutorial-red?logo=youtube&logoColor=white)](https://youtu.be/jnN3HXBMgnQ)
